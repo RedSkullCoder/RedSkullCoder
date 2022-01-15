@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/RedSkullCoder">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RedSkullCoder&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedSkullCoder&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedSkullCoder&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="java" height="20" width="70" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
