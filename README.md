@@ -42,7 +42,7 @@
 
 <img align="center" alt="arduino" height="20" width="70" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
 
-<!-- grafico -->
+<!-- graficos -->
 <a href="https://github.com/RedSkullCoder/github-readme-activity-graph"><img alt="RedSkullCoder Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RedSkullCoder&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
