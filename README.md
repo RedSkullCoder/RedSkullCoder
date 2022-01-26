@@ -10,6 +10,9 @@
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
      <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
     <a href="https://www.android.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/android-studio--v3.png"/> </a>
+     <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-cplusplus-a-general-purpose-descriptive-programming-computer-language-logo-shadow-tal-revivo.png"/> </a>
+    <a href="https://www.computerweekly.com/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-sql-a-domain-specific-language-for-programming-and-designed-for-managing-data-database-color-tal-revivo.png"/> </a>
+    
      <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/></a>
      <a href="https://rwww.php.net/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/php.png"/> </a>
    <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a>
