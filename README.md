@@ -31,7 +31,7 @@
 <br/>
   <br/>
 <!-- graficos -->
-  <h1>JOB</h1>
+
   </BR>
 <a href="https://github.com/RedSkullCoder/github-readme-activity-graph"><img alt="RedSkullCoder Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RedSkullCoder&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
