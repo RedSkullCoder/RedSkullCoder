@@ -20,7 +20,8 @@
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
   <a href="https://www.computerweekly.com/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-sql-a-domain-specific-language-for-programming-and-designed-for-managing-data-database-color-tal-revivo.png"/> </a>
  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a>
- <a href="www.oracle.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/oracle-logo.png"/> </a>
+ <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/oracle-logo.png"/> </a>
+      <a href="www.oracle.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
     <a href="https://firebase.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
     <a href="aws.amazon.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> </a>
      <a href="cloud.google.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/google-cloud.png"/> </a>
