@@ -16,7 +16,7 @@
      <a href="https://rwww.php.net/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/php.png"/> </a>
     <a href="https://developer.mozilla.org/es/docs/Glossary/HTML5" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-color-tal-revivo.png"/> </a>
     <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-   <a href="https://nodejs.org/es/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> </a>
+   <a href="https://nodejs.org/es/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
    <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
   <a href="https://www.computerweekly.com/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-sql-a-domain-specific-language-for-programming-and-designed-for-managing-data-database-color-tal-revivo.png"/> </a>
