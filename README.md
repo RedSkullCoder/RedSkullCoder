@@ -28,7 +28,7 @@
      <a href="cloud.google.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/google-cloud.png"/> </a>
      <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://www.arduino.cc/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/arduino.png"/> </a>
-     <a href="https://docs.soliditylang.org/en/v0.8.14/" target="_blank"><img src="https://losmejorescursosde.com/wp-content/uploads/2021/09/solidity.png"/ width="64" height="64"> </a>
+     <a href="https://docs.soliditylang.org/en/v0.8.14/" target="_blank"><img src="https://losmejorescursosde.com/wp-content/uploads/2021/09/solidity.png"/ width="32" height="32"> </a>
 </p>
 
 <br/>
